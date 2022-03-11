@@ -37,7 +37,7 @@
 }
 
 .container p{
-    padding: 0.75rem;
+    padding: 0.85rem;
 }
 
 .navbar-brand {
@@ -51,4 +51,20 @@
 }
 a {
     color: #272727;
+}
+
+.breadcrumb{ 
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.75rem;
+    background-color: #343a40 ;
+    margin-bottom: 0;
+}
+
+.breadcrumb a{
+    color: #ffffff; 
+}
+
+footer{
+    color: #ffffff;
 }
