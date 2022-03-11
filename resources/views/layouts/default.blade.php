@@ -25,19 +25,19 @@
                 @include('includes.search_results')
             @else
                 @yield('content')
-            @endif
+            @endif       
 
-            <ul class="breadcrumb">
+            <ul class="breadcrumb">                    
                 <li>
-					<a href="/" title="{{ __('misc.home_alt') }}" alt="{{ __('misc.home_alt') }}">{{ __('misc.home') }}</a>
-				</li>
-                @yield('breadcrumb')
-            </ul>
+                    <a href="/" title="{{ __('misc.home_alt') }}" alt="{{ __('misc.home_alt') }}">{{ __('misc.home') }}</a>
+                </li>
+                    @yield('breadcrumb')
+                </ul>
 
         </div>
 
         <div class="row">
-            @include('includes.footer')
+        @include('includes.footer')
         </div>
 
     </div>
