@@ -1,5 +1,19 @@
 
 <footer>
+  <p>
+   Over Ons:
+    Lorem ipsum dolor sit amet, consectetur 
+    adipiscing elit. Vivamus venenatis lacus 
+    vitae lorem hendrerit, sit amet semper nisi 
+    ultrices. Suspendisse vel
+  </p>
+  <span>Contact gegevens</span>
+  <span>E-mail adress: 123456789@blabla.nl</span>
+  <span>Tel. Nummer: 0600000000</span>
+  <span>Social Media:</span>
+  <span>twitter: blablablabla</span>
+  <span>instagram: blablabla</span>
+  <span>facebook: blablabla</span>
 	© Copyright Avarix 2022
 </footer>
 

@@ -76,6 +76,13 @@ a {
 }
 
 footer{
+    display: flex;
+    justify-content: space-between;
     color: #ffffff;
-  
+    padding: 8px;
 }
+
+footer p{
+    width: 20%
+}
+ 
