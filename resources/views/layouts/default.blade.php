@@ -32,13 +32,12 @@
                     <a href="/" title="{{ __('misc.home_alt') }}" alt="{{ __('misc.home_alt') }}">{{ __('misc.home') }}</a>
                 </li>
                     @yield('breadcrumb')
+                    @include('includes.footer')
                 </ul>
-
+                
         </div>
 
-        <div class="row">
-        @include('includes.footer')
-        </div>
+       
 
     </div>
 
